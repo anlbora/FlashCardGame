@@ -1,5 +1,12 @@
 # Flash Card Game
 
+![2](https://github.com/anlbora/FlashCardGame/assets/100442507/6dc3a764-9ce9-4e88-9919-0dc8702643f1)
+![3](https://github.com/anlbora/FlashCardGame/assets/100442507/907b2938-5f19-4f83-83c6-e23b9369a598)
+![4](https://github.com/anlbora/FlashCardGame/assets/100442507/32987229-6604-4deb-8410-ef8100b1a817)
+![5](https://github.com/anlbora/FlashCardGame/assets/100442507/38f29917-382a-40c6-8ca0-c77bef2d5d93)
+![6](https://github.com/anlbora/FlashCardGame/assets/100442507/cb730a53-17d5-4781-91b0-f8c3c8a0940c)
+
+
 This Flash Card Game is designed to help users enhance their vocabulary by matching English words with their Turkish translations. It's built using Python and the PyQt5 library, offering an interactive and visually appealing interface.
 
 ## Table of Contents
@@ -54,6 +61,7 @@ The game features a clean and user-friendly design with a responsive layout. It 
 
 2. **Choose a Category**:
     - Use the dropdown menu to select a category you want to practice.
+      ![1](https://github.com/anlbora/FlashCardGame/assets/100442507/99592955-ed6b-4173-986e-2ab709281341)
 
 3. **Translate the Word**:
     - A flash card will display an English word. Type its Turkish translation in the input box.
