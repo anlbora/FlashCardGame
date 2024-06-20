@@ -261,7 +261,7 @@ if __name__ == '__main__':
 
 
 ```
-```
+```json
 {
     "Animals": [
         {"question": "Cat", "answer": "Kedi"},
