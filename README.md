@@ -256,3 +256,37 @@ if __name__ == '__main__':
     app = QApplication(sys.argv)
     game = FlashCardGame()
     sys.exit(app.exec_())
+
+
+
+
+```
+```
+{
+    "Animals": [
+        {"question": "Cat", "answer": "Kedi"},
+        {"question": "Dog", "answer": "Köpek"},
+        ...
+    ],
+    "Colors": [
+        {"question": "Red", "answer": "Kırmızı"},
+        {"question": "Blue", "answer": "Mavi"},
+        ...
+    ],
+    "Occupations": [
+        {"question": "Doctor", "answer": "Doktor"},
+        {"question": "Teacher", "answer": "Öğretmen"},
+        ...
+    ],
+    "Sports": [
+        {"question": "Soccer", "answer": "Futbol"},
+        {"question": "Basketball", "answer": "Basketbol"},
+        ...
+    ],
+    "Furniture": [
+        {"question": "Chair", "answer": "Sandalye"},
+        {"question": "Table", "answer": "Masa"},
+        ...
+    ]
+}
+```
